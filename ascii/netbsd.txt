@@ -1,0 +1,7 @@
+$WHITE\\$PURPLE\`-______,----__
+$WHITE \\        $PURPLE__,---\`_
+$WHITE  \\       $PURPLE\`.____
+$WHITE   \\$PURPLE-______,----\`-
+$WHITE    \\
+$WHITE     \\
+$WHITE      \\

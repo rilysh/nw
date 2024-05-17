@@ -1,0 +1,8 @@
+** nw
+Yet another system info tool, for BSD*.
+
+** ASCII artworks
+1. beastie.txt (taken from [[https://cmang.org/][https://cmang.org/]]).
+2. {free, open, net}bsd.txt (taken from [[https://github.com/dylanaraps/neofetch][neofetch]]).
+
+****** (*) Specifically FreeBSD. Other one's are still rough.
